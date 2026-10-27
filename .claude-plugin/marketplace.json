@@ -1,0 +1,19 @@
+{
+  "name": "corbelo",
+  "owner": {
+    "name": "Brain Tree Labs, LLC",
+    "email": "hello@corbelo.dev",
+    "url": "https://corbelo.dev/about/"
+  },
+  "metadata": {
+    "description": "Plan, build and extend software with Corbelo’s opinionated foundations and human-designed product features."
+  },
+  "plugins": [
+    {
+      "name": "corbelo",
+      "source": "./claude",
+      "description": "Plan, build and extend software with Corbelo’s opinionated foundations and human-designed product features.",
+      "version": "1.0.0"
+    }
+  ]
+}

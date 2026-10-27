@@ -1,0 +1,23 @@
+{
+  "name": "corbelo",
+  "version": "1.0.0",
+  "description": "Plan, build and extend software with Corbelo’s opinionated foundations and human-designed product features.",
+  "author": {
+    "name": "Brain Tree Labs, LLC",
+    "email": "hello@corbelo.dev",
+    "url": "https://corbelo.dev/about/"
+  },
+  "homepage": "https://corbelo.dev/build-with-ai/",
+  "repository": "https://github.com/kylebegeman/corbelo-plugins",
+  "license": "MIT",
+  "keywords": [
+    "corbelo",
+    "software",
+    "personal-tools",
+    "founders",
+    "apple",
+    "web"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

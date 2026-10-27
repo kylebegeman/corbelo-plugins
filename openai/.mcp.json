@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "corbelo": {
+      "type": "http",
+      "url": "https://corbelo.dev/corbelo/mcp"
+    }
+  }
+}

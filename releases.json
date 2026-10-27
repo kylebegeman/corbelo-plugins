@@ -1,0 +1,20 @@
+{
+  "schema_version": "corbelo.plugins/v1",
+  "endpoint": "https://corbelo.dev/corbelo/mcp",
+  "packages": {
+    "openai": {
+      "version": "1.0.0",
+      "url": "/integrations/corbelo-openai-1.0.0.zip",
+      "sha256": "ba6ef8540dc05c48db6d0da1de097a516d2f15dffb4bdb40bf2fd83d1758b209",
+      "bytes": 25140,
+      "directory_status": "not_submitted"
+    },
+    "claude": {
+      "version": "1.0.0",
+      "url": "/integrations/corbelo-claude-1.0.0.zip",
+      "sha256": "68dbe210d5e488e9dbb278d00713ec25502532ccd1a06d982f9b939cdb152089",
+      "bytes": 24481,
+      "directory_status": "not_submitted"
+    }
+  }
+}
