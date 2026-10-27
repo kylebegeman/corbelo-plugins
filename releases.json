@@ -5,15 +5,15 @@
     "openai": {
       "version": "1.0.0",
       "url": "/integrations/corbelo-openai-1.0.0.zip",
-      "sha256": "ba6ef8540dc05c48db6d0da1de097a516d2f15dffb4bdb40bf2fd83d1758b209",
-      "bytes": 25140,
+      "sha256": "7399257482a195b99096b8fb0c738756443f9581e964c81bb2135a0dde595aba",
+      "bytes": 34632,
       "directory_status": "not_submitted"
     },
     "claude": {
       "version": "1.0.0",
       "url": "/integrations/corbelo-claude-1.0.0.zip",
-      "sha256": "68dbe210d5e488e9dbb278d00713ec25502532ccd1a06d982f9b939cdb152089",
-      "bytes": 24481,
+      "sha256": "8d2eddca1822072efd9e6f8a100020f47b8f44445cf58faf87ea0163772ceb32",
+      "bytes": 33603,
       "directory_status": "not_submitted"
     }
   }
