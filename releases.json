@@ -4,14 +4,14 @@
   "packages": {
     "openai": {
       "version": "1.0.0",
-      "url": "/integrations/corbelo-openai-1.0.0.zip",
+      "url": "https://corbelo.dev/integrations/corbelo-openai-1.0.0.zip",
       "sha256": "7399257482a195b99096b8fb0c738756443f9581e964c81bb2135a0dde595aba",
       "bytes": 34632,
       "directory_status": "not_submitted"
     },
     "claude": {
       "version": "1.0.0",
-      "url": "/integrations/corbelo-claude-1.0.0.zip",
+      "url": "https://corbelo.dev/integrations/corbelo-claude-1.0.0.zip",
       "sha256": "8d2eddca1822072efd9e6f8a100020f47b8f44445cf58faf87ea0163772ceb32",
       "bytes": 33603,
       "directory_status": "not_submitted"
